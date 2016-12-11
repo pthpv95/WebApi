@@ -1,0 +1,10 @@
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\DataBusiness.dll.config
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\DataBusiness.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\DataBusiness.pdb
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\EntityFramework.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\EntityFramework.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\obj\Debug\DataBusiness.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\obj\Debug\DataBusiness.dll
+c:\users\mypc\documents\visual studio 2015\Projects\WebApiTutorial\DataBusiness\obj\Debug\DataBusiness.pdb
